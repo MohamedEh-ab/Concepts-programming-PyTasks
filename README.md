@@ -79,3 +79,6 @@ __Solution:__
    - empty
    - contains characters that are not alphabetical
    - contains numbers
+--------------------------------------------------------------------------------------------------------------------------
+
+link to solutions explanation videos: [Click Here](https://drive.google.com/drive/folders/1UnczXuOADRuBy7P5ovW0hKnQ2nzqXKpa?usp=sharing)
